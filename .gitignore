@@ -33,4 +33,9 @@ nosetests.xml
 # Mr Developer
 .mr.developer.cfg
 .project
-.pydevproject
+.pydevprojectg
+
+# My input dbs
+input
+output
+
